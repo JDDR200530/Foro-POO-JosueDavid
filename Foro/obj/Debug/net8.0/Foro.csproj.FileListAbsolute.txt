@@ -1,0 +1,14 @@
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\bin\Debug\net8.0\Foro.exe
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\bin\Debug\net8.0\Foro.deps.json
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\bin\Debug\net8.0\Foro.runtimeconfig.json
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\bin\Debug\net8.0\Foro.dll
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\bin\Debug\net8.0\Foro.pdb
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.AssemblyInfoInputs.cache
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.AssemblyInfo.cs
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.dll
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\refint\Foro.dll
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.pdb
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\Foro.genruntimeconfig.cache
+C:\Users\JOSUE DAVID\source\repos\Foro\Foro\obj\Debug\net8.0\ref\Foro.dll
